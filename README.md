@@ -1,4 +1,3 @@
-
 # Aryan's Developer Portfolio
 
 ## 🚀 Introduction
@@ -24,8 +23,13 @@ For the past 1.5 years, I've been immersed in learning coding languages, startin
 
 ## 🚧 Projects
 
-##### a few dummy projects
-- [Project 1: Shop-Jacket](link-to-repo)
+- [Project 0: Agency Clone Project](link-to-repo)
+https://aryan-sahu2.github.io/Obys-agency-clone/
+
+
+
+###### a few dummy projects
+ - [Project 1: Shop-Jacket](link-to-repo)
 https://aryan-sahu2.github.io/Shop-Jacket/
 
 - [Project 2: a-cotton-weave](link-to-repo)
