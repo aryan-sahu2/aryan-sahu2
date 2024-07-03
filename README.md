@@ -1,4 +1,4 @@
-# 👋 Hello there!
+<center>#  Hello! I am Aryan Sahu</center>
 
 ![Welcome GIF](https://github.com/Aryan-sahu2/Aryan-sahu2/blob/main/icons/welcome.gif)
 
