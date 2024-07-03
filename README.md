@@ -27,7 +27,48 @@ For the past 1.5 years, I've been immersed in learning coding languages, startin
 <details>
   <summary><h2> 🏢 Experience</h2></summary>
   <ul>
-    <li>Applications Engineer at Newgen</li>
+    <li>Applications Engineer at Newgen (February 2023 - Present)
+      <ul>
+        <li>Developing and deploying new features for Invoice Processing for the finance team based on demands using Java and JavaScript.</li>
+        <li>Developing and fixing features in utilities responsible for updating Oracle databases and communication with SAP.</li>
+        <li>Working as an Application Engineer in the team deployed at the company client Vodafone India Limited.</li>
+      </ul>
+    </li>
+    <li>YourMauka.com - Business Analyst
+      <ul>
+        <li>Implemented client acquisition strategies and analyzed customer personas.</li>
+      </ul>
+    </li>
+    <li>The AI ML Company - COO
+      <ul>
+        <li>Managed a team of 5, acquired clients through startup meet-ups, and created client management dashboards.</li>
+      </ul>
+    </li>
+    <li>Musqaan - Founder
+      <ul>
+        <li>Established a fashion brand focused on mental health, conducted interviews, built teams, and ran Facebook advertisements.</li>
+      </ul>
+    </li>
+    <li>Enticers Club - President
+      <ul>
+        <li>Led a team organizing inclusive online events and conducted webinars.</li>
+      </ul>
+    </li>
+    <li>AIESEC in Pune - Manager and Executive
+      <ul>
+        <li>Made cold calls for informational seminars, screened CVs, and guided applicants for international company applications.</li>
+      </ul>
+    </li>
+    <li>MyCaptain - Campus Ambassador
+      <ul>
+        <li>Generated revenue through sales of course packages and identified target audience for Edtech products.</li>
+      </ul>
+    </li>
+    <li>Freelance - Personal Tutor
+      <ul>
+        <li>Taught spoken English and elementary subjects using interactive teaching methods.</li>
+      </ul>
+    </li>
   </ul>
 </details>
 
