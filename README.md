@@ -1,6 +1,4 @@
-<center>#  Hello! I am Aryan Sahu</center>
-
-![Welcome GIF](https://github.com/Aryan-sahu2/Aryan-sahu2/blob/main/icons/welcome.gif)
+<h1 align="center">👋 Hello there!</h1>
 
 ## 🚀 Introduction
 
@@ -21,33 +19,43 @@ For the past 1.5 years, I've been immersed in learning coding languages, startin
 
 <details>
   <summary><h2> 📚 Resume</h2></summary>
-  - [View My Resume](link-to-resume)
-</details>
+  <ul>
+    <li><a href="link-to-resume">View My Resume</a></li>
+  </ul>
+</details> 
 
 <details>
   <summary><h2> 🏢 Experience</h2></summary>
-  - Applications Engineer at Newgen
+  <ul>
+    <li>Applications Engineer at Newgen</li>
+  </ul>
 </details>
 
 <details>
   <summary><h2> 💻 Coding Handles</h2></summary>
-  - [GitHub](https://github.com/Aryan-sahu2)
-  - [LeetCode](link-to-leetcode-profile)
+  <ul>
+    <li><a href="https://github.com/Aryan-sahu2">GitHub</a></li>
+    <li><a href="link-to-leetcode-profile">LeetCode</a></li>
+  </ul>
 </details>
 
 <details>
   <summary><h2> 🛠️ Tech Stack</h2></summary>
-  - **Languages:** HTML, CSS, JavaScript, Java
-  - **Frameworks:** React
-  - **Databases:** MongoDB, OracleSQL
-  - **Server-Side:** Express.js
+  <ul>
+    <li><strong>Languages:</strong> HTML, CSS, JavaScript, Java</li>
+    <li><strong>Frameworks:</strong> React</li>
+    <li><strong>Databases:</strong> MongoDB, OracleSQL</li>
+    <li><strong>Server-Side:</strong> Express.js</li>
+  </ul>
 </details>
 
 <details>
   <summary><h2> 🚧 Projects</h2></summary>
-  - [Project 0: Agency Clone Project](https://aryan-sahu2.github.io/Obys-agency-clone/)
-  - [Project 1: Shop-Jacket](https://aryan-sahu2.github.io/Shop-Jacket/)
-  - [Project 2: a-cotton-weave](https://aryan-sahu2.github.io/a-cotton-weave/)
+  <ul>
+    <li><a href="https://aryan-sahu2.github.io/Obys-agency-clone/">Project 0: Agency Clone Project</a></li>
+    <li><a href="https://aryan-sahu2.github.io/Shop-Jacket/">Project 1: Shop-Jacket</a></li>
+    <li><a href="https://aryan-sahu2.github.io/a-cotton-weave/">Project 2: a-cotton-weave</a></li>
+  </ul>
 </details>
 
 ## 📊 Stats and Activity
@@ -67,7 +75,7 @@ For the past 1.5 years, I've been immersed in learning coding languages, startin
 
 ## 📬 Let's Connect
 
-I'm open to collaboration, support, and new opportunities. If you share my passion for tech, and mental health, or have ideas for collaboration, feel free to reach out. Let's make a positive impact together!
+I'm open to collaboration, support, and new opportunities. If you share my passion for tech, mental health, or have ideas for collaboration, feel free to reach out. Let's make a positive impact together!
 
 - Email: aryanwin0609@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/aryan-sahu/](https://www.linkedin.com/in/aryan-sahu/)
