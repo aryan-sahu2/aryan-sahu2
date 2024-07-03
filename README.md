@@ -68,7 +68,7 @@ ReactJs, Redux, Tailwind CSS and infiniteScroll libraries along with integrating
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:aryanwin0609@gmail.com">
-      <img align="center" src="https://github.com/Aryan-sahu2/Aryan-sahu2/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/media/95b8e8b785fcc7c142f56c008577f441.gif" width="100"/>
     </a>
   </p>
 </details>
