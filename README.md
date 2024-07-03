@@ -20,7 +20,7 @@ For the past 1.5 years, I've been immersed in learning coding languages, startin
 <details>
   <summary><h2> 📚 Resume</h2></summary>
   <ul>
-    <li><a href="[link-to-resume](https://drive.google.com/file/d/1Cp5dDC0s6AkeZhrHXrP3t-6iOEdWWOdv/view?usp=drivesdk)">View My Resume</a></li>
+    <li><a href="https://drive.google.com/file/d/1Cp5dDC0s6AkeZhrHXrP3t-6iOEdWWOdv/view?usp=drivesdk">View My Resume</a></li>
   </ul>
 </details> 
 
