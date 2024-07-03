@@ -51,9 +51,9 @@ For the past 1.5 years, I've been immersed in learning coding languages, startin
 <details>
   <summary><h2> 🚧 Projects</h2></summary>
   <ul>
-    <li><a href="[https://aryan-sahu2.github.io/Obys-agency-clone/](https://major-react-movie-app.vercel.app/)">Project 0: Movie Browsing App</a> - Developed a Movie Browsing App capable of displaying latest movie details and play trailers using
+    <li><a href="https://major-react-movie-app.vercel.app/">Project 0: Movie Browsing App</a> - Developed a Movie Browsing App capable of displaying latest movie details and play trailers using
 ReactJs, Redux, Tailwind CSS and infiniteScroll libraries along with integrating APIs to acquire data.</li>
-    <li><a href="[https://aryan-sahu2.github.io/Shop-Jacket/](https://react-refokus-clone.vercel.app/)">Project 1: Refokus Clone</a>- Developed a clone of the agency using ReactJs and framerMotion, GSAP, scrollTrigger libraries.</li>
+    <li><a href="https://react-refokus-clone.vercel.app/">Project 1: Refokus Clone</a>- Developed a clone of the agency using ReactJs and framerMotion, GSAP, scrollTrigger libraries.</li>
     <li><a href="https://aryan-sahu2.github.io/a-cotton-weave/">Project 2: a-cotton-weave</a></li>
   </ul>
 </details>
