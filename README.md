@@ -26,7 +26,7 @@ We started Kangagigs from **zero** — no funding, no marketing team, just deep 
 
 - 🧪 Launched 3 product iterations (from MVP to full job platform)
 - 🚶‍♂️ Talked to 100+ students and 50+ businesses for validation
-- 🛠 Built complete platform solo in 64 days — React, Node.js, MongoDB, Express
+- 🛠 Built complete platform solo in 64 days — React, Node.js, Postgres, Express
 - 🏆 Won People's Choice Award at RMIT Activator Showcase
 - 🤖 Now building an AI-powered assistant for student life (jobBot, cookBot, eventBot & more)
 
@@ -37,7 +37,7 @@ We started Kangagigs from **zero** — no funding, no marketing team, just deep 
 ```js
 Languages:     HTML, CSS, JavaScript, Java
 Frameworks:    React, Express.js
-Databases:     MongoDB, OracleSQL
+Databases:     MongoDB, OracleSQL, Postgres
 Other Tools:   Node.js, TailwindCSS, Redux, Git
 ```
 
