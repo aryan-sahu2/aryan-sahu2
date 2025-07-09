@@ -87,6 +87,11 @@ Other Tools:   Node.js, TailwindCSS, Redux, Git
 
 ## 📊 GitHub Stats
 
+
+I'm actively contributing across multiple repositories — both public and private — with a focus on full-stack web development using React, Node.js, postgres, prisma, and Express.  
+> ⚠️ GitHub stats may not reflect private contributions or full activity.
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-sahu2&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-sahu2&layout=compact&theme=radical" />
