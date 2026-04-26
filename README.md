@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Aryan Sahu
+# <h1 style="text-align:center">👋 Hello, I'm Aryan Sahu</h1>
 
-🚀 Full-Stack Developer • ⚙️ Production Systems • 🧠 Product-Driven Builder
+<p style="text-align:center">🚀 Full-Stack Developer • ⚙️ Production Systems • 🧠 Product-Driven Builder</p>
 
 ---
 
