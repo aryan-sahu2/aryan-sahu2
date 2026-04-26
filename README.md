@@ -1,116 +1,110 @@
-<h1 align="center">👋 Hello, I'm Aryan Sahu!</h1>
+# 👋 Hello, I'm Aryan Sahu
 
-<p align="center">
-  🚀 Full-Stack Developer • 🧠 Startup Founder • 🇦🇺 Building for International Students
-</p>
+🚀 Full-Stack Developer • ⚙️ Production Systems • 🧠 Product-Driven Builder
 
 ---
 
 ## 🛠 About Me
 
-I'm Aryan, a self-driven techie-turned-founder passionate about solving **real-world problems with code**. From working as an Applications Engineer to building Kangagigs — a student-first startup in Australia — my journey has been all about creating impact.
+I’m a **Full Stack Developer with 3+ years of hands-on experience** building and deploying real-world applications across frontend, backend, and infrastructure.
 
-- 👨‍💻 Applications Engineer at Newgen (Java, JavaScript, OracleSQL)
-- 🏗️ Co-founder of [Kangagigs](https://kangagigs.com) — a platform helping international students find part-time gigs
-- 🧠 Ex-founder of Musqaan — a fashion brand advocating mental health
-- 💡 Passionate about modern web dev, backend systems, and founder-led product design
-- 💬 Actively exploring the intersection of AI and student productivity
+I specialize in **owning systems end-to-end** — from UI to APIs to production deployment.
+
+- 👨‍💻 Full Stack Developer @ Infravue Technologies (Current)
+- 🏢 Ex-Application Engineer @ Newgen (Enterprise systems)
+- 🏗 Built and deployed multiple production-grade apps independently
+- ⚙️ Strong in React, Node.js, Next.js, PostgreSQL, and DevOps (Nginx, AWS, PM2)
+- 🧠 Practical, product-focused, and execution-driven
 
 ---
 
-## 🧠 Current Focus
+## 🧠 What I Bring
 
-### 💼 Kangagigs: From Scratch to Startup
-
-We started Kangagigs from **zero** — no funding, no marketing team, just deep personal pain and a hunger to build for international students.
-
-- 🧪 Launched 3 product iterations (from MVP to full job platform)
-- 🚶‍♂️ Talked to 100+ students and 50+ businesses for validation
-- 🛠 Built complete platform solo in 64 days — React, Node.js, Postgres, Express
-- 🏆 Won People's Choice Award at RMIT Activator Showcase
-- 🤖 Now building an AI-powered assistant for student life (jobBot, cookBot, eventBot & more)
+- 🔧 Ability to **build and ship full-stack systems independently**
+- 🚀 Experience handling **production deployments and infra**
+- 📈 Strong focus on **performance, reliability, and iteration**
+- 🧩 Comfortable working across **frontend, backend, and DevOps**
+- 🤖 Actively using AI tools to **accelerate development workflows**
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-```js
-Languages:     HTML, CSS, JavaScript, Java
-Frameworks:    React, Express.js
-Databases:     MongoDB, OracleSQL, Postgres
-Other Tools:   Node.js, TailwindCSS, Redux, Git
+```
+Languages: JavaScript, TypeScript, Java
+Frontend: React, Next.js, Redux, Tailwind CSS, Framer Motion, GSAP
+Backend: Node.js, Express.js, REST APIs, JWT Auth
+Databases: PostgreSQL, MongoDB, Oracle SQL, Prisma
+DevOps: Linux, Docker, Nginx, PM2, AWS EC2, Cloudflare Workers (basic)
 ```
 
----
-
-## 🚀 Projects
-
-- 🔍 **[Kangagigs](https://kangagigs.com)** — Platform for international students to find part-time gigs (Job matching engine, profile management, resume tracking)
-- 🎬 **[Movie Browsing App](https://major-react-movie-app.vercel.app/)** — Built with React, Redux, TMDB API, infinite scroll, trailer integration
-- 🌀 **[Refokus Clone](https://react-refokus-clone.vercel.app/)** — UI/UX animation clone using React, framer-motion, GSAP
-- 🧵 **[A Cotton Weave](https://aryan-sahu2.github.io/a-cotton-weave/)** — A creative frontend mini site
 
 ---
 
-## 📚 Experience Snapshot
+## 🚀 Key Work
 
-<details>
-  <summary><strong>Newgen — Applications Engineer (Feb 2023 - Present)</strong></summary>
-  - Building features for invoice processing & financial systems (Java, OracleSQL)  
-  - Deployed at Vodafone India as a tech consultant  
-  - Handled database-SAP integrations and utility enhancements
-</details>
+### 🧩 Production Engineering (Infravue Technologies)
+- ⚙️ Deployed Next.js applications across subdomains using PM2 + Nginx
+- 🔄 Managed zero-downtime deployments and process reliability
+- ☁️ Used Cloudflare Workers for lightweight backend use cases
+- 🧱 Migrated legacy frontend systems → modern stack (-40% maintenance overhead)
+- ⚡ Improved delivery speed by 25% using AI-assisted workflows
+- 🎨 Built a custom WordPress theme from scratch (HTML → PHP → ACF integration)
 
-<details>
-  <summary><strong>Kangagigs — Co-Founder</strong></summary>
-  - Built and launched 3 full product iterations in < 6 months  
-  - Led technical development (full stack) and offline validation  
-  - Won People’s Choice Award at RMIT Activator Showcase  
-  - Currently leading AI-based platform evolution for student life
-</details>
+### 🏦 Enterprise Systems (Newgen)
+- 🏢 Worked on systems handling 10M+ daily transactions
+- 🔗 Built Oracle-SAP data pipelines (99.9% accuracy)
+- 📉 Optimized queries reducing batch processing time by 30%
 
-<details>
-  <summary><strong>Musqaan — Founder</strong></summary>
-  - Mental health awareness via fashion & storytelling  
-  - Ran Facebook ads, built team, conducted interviews
-</details>
+### 🚀 Kangagigs (Startup Project — Now Deprecated)
 
-<details>
-  <summary><strong>Other Roles</strong></summary>
-  - Business Analyst @ YourMauka.com  
-  - COO @ The AI ML Company  
-  - Club President, AIESEC Pune, MyCaptain Ambassador  
-  - Personal Tutor (Freelance)  
-</details>
+> ⚠️ This project was actively developed and maintained for ~1 year and is now deprecated.
+
+- 🛠 Built a full-stack job platform for international students
+- 👥 Onboarded 500+ users
+- 🔐 Implemented authentication, job filtering, resume uploads
+- ☁️ Managed AWS EC2 + Nginx infrastructure independently
+- 🧪 Iterated UI/UX multiple times (-35% load time improvement)
+- 🏆 Won People’s Choice Award @ RMIT Activator Showcase
+
+💡 Explored pivot into AI assistant for student life, but not pursued further due to evolving ecosystem.
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Projects
 
+- 🔍 **Kangagigs** – Full-stack job platform (deprecated)
+- 🎬 **Movie Browsing App** – React + TMDB + infinite scroll
+- 🌀 **Frontend Animation Clones** – GSAP, Framer Motion, Three.js
+- 🧵 **Creative UI Projects** – Experimental frontend work
 
-I'm actively contributing across multiple repositories — both public and private — with a focus on full-stack web development using React, Node.js, postgres, prisma, and Express.  
-> ⚠️ GitHub stats may not reflect private contributions or full activity.
+---
 
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-sahu2&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-sahu2&layout=compact&theme=radical" />
-</p>
+> ⚠️ A significant portion of my work is in private repositories (client + production projects)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-sahu2&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-sahu2&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Let's Connect
 
-I'm always open to collaboration, freelance opportunities, or just geeking out on cool tech. If you're building something exciting, especially for students or using AI — let's talk!
+I'm currently open to full-time opportunities where I can contribute as a Full Stack Developer in high-ownership environments.
 
-- 📧 Email: [aryanwin0609@gmail.com](mailto:aryanwin0609@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/aryan-sahu](https://linkedin.com/in/aryan-sahu)  
-- 🐦 Twitter: [@aryansahu25_](https://twitter.com/aryansahu25_)
+- 📧 Email: [aryanwin0609@gmail.com](mailto:aryanwin0609@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/aryan-sahu](https://linkedin.com/in/aryan-sahu)
+- 🐦 Twitter: [twitter.com/aryansahu25](https://twitter.com/aryansahu25)
 
 ---
 
-> _“Build what you wish you had. Code like it matters. Ship like someone’s waiting for it.”_
+## 💼 Current Status
+
+✅ Actively interviewing  
+⚡ Available to join immediately  
+🎯 Targeting high-impact engineering roles with strong ownership and growth
+
 ---
 
-💼 **Actively Looking for Opportunities**  
-I'm currently seeking a **full-time role as a Full Stack Developer or Frontend Developer**. While I’ve been building my own startup (Kangagigs) from the ground up, my primary focus now is to join a company where I can learn, contribute, and grow as a developer. I intend to continue working on my startup on the side, but my full-time commitment and energy will be dedicated to my next role.
+> “Build systems that work in production. Optimize what matters. Ship consistently.”
