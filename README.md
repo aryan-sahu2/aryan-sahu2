@@ -84,16 +84,19 @@ Still, this project taught me the most.
 
 ## Status
 
-- Actively interviewing  
-- Available to join immediately  
+- Currently transitioning from my current role
+- Actively interviewing for full-time opportunities
+- Available to join within 1–2 months
+
+In the meantime, I’m working on building a production-grade application for a real-world business use case.
 
 ---
 
 ## Contact
 
-Email: aryanwin0609@gmail.com  
-LinkedIn: https://linkedin.com/in/aryan-sahu  
-Twitter: https://twitter.com/aryansahu25  
+Email: aryanwin0609@gmail.com
+LinkedIn: https://linkedin.com/in/aryan-sahu
+Twitter: https://twitter.com/aryansahu25
 
 ---
 
