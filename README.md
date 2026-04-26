@@ -1,110 +1,100 @@
-# 👋 Hello, I'm Aryan Sahu
+# Hey, I'm Aryan
 
-🚀 Full-Stack Developer • ⚙️ Production Systems • 🧠 Product-Driven Builder
-
----
-
-## 🛠 About Me
-
-I’m a **Full Stack Developer with 3+ years of hands-on experience** building and deploying real-world applications across frontend, backend, and infrastructure.
-
-I specialize in **owning systems end-to-end** — from UI to APIs to production deployment.
-
-- 👨‍💻 Full Stack Developer @ Infravue Technologies (Current)
-- 🏢 Ex-Application Engineer @ Newgen (Enterprise systems)
-- 🏗 Built and deployed multiple production-grade apps independently
-- ⚙️ Strong in React, Node.js, Next.js, PostgreSQL, and DevOps (Nginx, AWS, PM2)
-- 🧠 Practical, product-focused, and execution-driven
+Full stack developer. I build things end-to-end and care about how they actually run in production.
 
 ---
 
-## 🧠 What I Bring
+## About
 
-- 🔧 Ability to **build and ship full-stack systems independently**
-- 🚀 Experience handling **production deployments and infra**
-- 📈 Strong focus on **performance, reliability, and iteration**
-- 🧩 Comfortable working across **frontend, backend, and DevOps**
-- 🤖 Actively using AI tools to **accelerate development workflows**
+I’ve been working as a developer for a little over 3 years now. Most of my experience comes from shipping real systems — not just writing features, but handling deployment, debugging, and keeping things stable.
+
+Right now I’m working at Infravue, where I’m mostly dealing with Next.js apps, deployments, and cleaning up / improving existing systems.
+
+Before that, I was at Newgen working on enterprise systems (banking + telecom scale stuff). That’s where I got used to working with large datasets, pipelines, and systems that can’t just “break”.
+
+Somewhere in between, I built Kangagigs — a job platform for international students. That was my first proper “build everything yourself” experience.
 
 ---
 
-## 🧑‍💻 Tech Stack
-
+## What I usually work with
 ```
-Languages: JavaScript, TypeScript, Java
-Frontend: React, Next.js, Redux, Tailwind CSS, Framer Motion, GSAP
-Backend: Node.js, Express.js, REST APIs, JWT Auth
-Databases: PostgreSQL, MongoDB, Oracle SQL, Prisma
-DevOps: Linux, Docker, Nginx, PM2, AWS EC2, Cloudflare Workers (basic)
+Frontend: React, Next.js, Tailwind, Redux
+Backend: Node.js, Express, REST APIs
+Databases: PostgreSQL, MongoDB, Oracle SQL
+Infra: Linux, Nginx, PM2, AWS EC2, Docker (basic)
+Other: Prisma, JWT auth, Cloudflare Workers (very limited use)
 ```
 
+---
+
+## What I’ve actually done
+
+### Infravue (current)
+
+- Deployed multiple Next.js apps using PM2 + Nginx across subdomains
+- Handled zero-downtime deploys and process reliability
+- Used Cloudflare Workers in a case where spinning up a full backend didn’t make sense
+- Migrated an old frontend setup to a cleaner structure (cut down a lot of maintenance issues)
+- Built a custom WordPress theme from scratch (HTML → PHP → ACF)
+- Started using AI tools properly in workflow — sped things up quite a bit once it was set up right
 
 ---
 
-## 🚀 Key Work
+### Newgen
 
-### 🧩 Production Engineering (Infravue Technologies)
-- ⚙️ Deployed Next.js applications across subdomains using PM2 + Nginx
-- 🔄 Managed zero-downtime deployments and process reliability
-- ☁️ Used Cloudflare Workers for lightweight backend use cases
-- 🧱 Migrated legacy frontend systems → modern stack (-40% maintenance overhead)
-- ⚡ Improved delivery speed by 25% using AI-assisted workflows
-- 🎨 Built a custom WordPress theme from scratch (HTML → PHP → ACF integration)
-
-### 🏦 Enterprise Systems (Newgen)
-- 🏢 Worked on systems handling 10M+ daily transactions
-- 🔗 Built Oracle-SAP data pipelines (99.9% accuracy)
-- 📉 Optimized queries reducing batch processing time by 30%
-
-### 🚀 Kangagigs (Startup Project — Now Deprecated)
-
-> ⚠️ This project was actively developed and maintained for ~1 year and is now deprecated.
-
-- 🛠 Built a full-stack job platform for international students
-- 👥 Onboarded 500+ users
-- 🔐 Implemented authentication, job filtering, resume uploads
-- ☁️ Managed AWS EC2 + Nginx infrastructure independently
-- 🧪 Iterated UI/UX multiple times (-35% load time improvement)
-- 🏆 Won People’s Choice Award @ RMIT Activator Showcase
-
-💡 Explored pivot into AI assistant for student life, but not pursued further due to evolving ecosystem.
+- Worked on systems handling ~10M+ daily transactions
+- Built and maintained Oracle ↔ SAP pipelines (accuracy actually mattered here)
+- Did query optimizations that reduced batch times noticeably
 
 ---
 
-## 📦 Projects
+### Kangagigs (now deprecated)
 
-- 🔍 **Kangagigs** – Full-stack job platform (deprecated)
-- 🎬 **Movie Browsing App** – React + TMDB + infinite scroll
-- 🌀 **Frontend Animation Clones** – GSAP, Framer Motion, Three.js
-- 🧵 **Creative UI Projects** – Experimental frontend work
+I built this when I was trying to solve a problem I personally faced.
 
----
+- Full stack job platform (React + Node + Postgres)
+- Around 500 users
+- Auth, filtering, resume uploads, etc.
+- Deployed and managed everything on AWS EC2 + Nginx
+- Iterated UI multiple times based on actual feedback
 
-## 📊 GitHub Activity
+I kept it live for about a year. Eventually stopped working on it.
 
-> ⚠️ A significant portion of my work is in private repositories (client + production projects)
+At one point I explored turning it into an AI assistant for students, but honestly — with how fast tools have evolved — that direction didn’t make much sense to pursue anymore.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-sahu2&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-sahu2&layout=compact&theme=radical)
-
----
-
-## 📬 Let's Connect
-
-I'm currently open to full-time opportunities where I can contribute as a Full Stack Developer in high-ownership environments.
-
-- 📧 Email: [aryanwin0609@gmail.com](mailto:aryanwin0609@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/aryan-sahu](https://linkedin.com/in/aryan-sahu)
-- 🐦 Twitter: [twitter.com/aryansahu25](https://twitter.com/aryansahu25)
+Still, this project taught me the most.
 
 ---
 
-## 💼 Current Status
+## Other stuff
 
-✅ Actively interviewing  
-⚡ Available to join immediately  
-🎯 Targeting high-impact engineering roles with strong ownership and growth
+- Built a movie browsing app (React + TMDB)
+- Spent a lot of time recreating animation-heavy UIs (GSAP, Framer Motion, Three.js)
+- Recently been experimenting with local AI setups (Ollama, smaller models inside IDE, etc.)
 
 ---
 
-> “Build systems that work in production. Optimize what matters. Ship consistently.”
+## Current focus
+
+- Getting better at system design and backend depth  
+- Practicing DSA again (after ignoring it for too long)  
+- Looking for strong engineering roles where I can actually own things  
+
+---
+
+## Status
+
+- Actively interviewing  
+- Available to join immediately  
+
+---
+
+## Contact
+
+Email: aryanwin0609@gmail.com  
+LinkedIn: https://linkedin.com/in/aryan-sahu  
+Twitter: https://twitter.com/aryansahu25  
+
+---
+
+> I care more about systems working in production than looking good in code snippets.
